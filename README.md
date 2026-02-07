@@ -1,5 +1,4 @@
 # Retial_Sales_Perfomance_Analysis_Gloria
-# Retail Sales Performance Analysis
 
 ## Project Overview
 This project analyzes retail sales data to understand sales performance, identify trends, and support business decision-making.
